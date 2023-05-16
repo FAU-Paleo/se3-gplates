@@ -123,7 +123,7 @@ The relative positions are given as movements on the surface of the sphere that 
 
 ### Loading rotation files
 
-You can load in rotaiton files the same way as you would load other object, with the [**Open Feature Collection**]({% link _posts/2022-05-19-features.md %}#loading-feature-collections) tool. Use this to load the **AusAnt_ExampleRotation.rot** along with the simplified coastlines **Global_EarthByte_GPlates_Coastlines_20091014.gpml**!
+You can load in rotation files the same way as you would load other object, with the [**Open Feature Collection**]({% link _posts/2022-05-19-features.md %}#loading-feature-collections) tool. Use this to load the **AusAnt_ExampleRotation.rot** along with the simplified coastlines **Global_EarthByte_GPlates_Coastlines_20091014.gpml**!
 
 Once they are loaded you should see something like this:
 
@@ -147,7 +147,7 @@ This information is the same as what you see in the loaded file if you open it i
 
 # Implementing one rotation
 
-The easiest way to illustrate what an actual rotation is, you can implement it ourselves. We are going to implement the northward drift of Australia (and Tansania) that started to split off from Antarctica about 83 million years ago. 
+The easiest way to understand what an actual rotation is, is to implement it ourselves. We are going to implement the northward drift of Australia (and Tansania) that started to split off from Antarctica about 83 million years ago. 
 
 To start, first set the time to 83Ma:
 

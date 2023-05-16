@@ -6,7 +6,7 @@ permalink: /download/
 
 Here is a list of files that are used throughout the exercises
 
-- [Slides]({{site.url}}{{site.baseurl}}download/2022-05-26_GPlates_intro.pdf)
+- [Slides]({{site.url}}{{site.baseurl}}download/2023-05-11_GPlatres_intro.html)
 
 # Basic rotations
 

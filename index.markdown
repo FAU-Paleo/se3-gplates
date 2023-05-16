@@ -7,11 +7,9 @@ layout: page
 
 ![img]({{site.url}}{{site.baseurl}}images/header.png)
 
-# GPlates exercise for System Erde III. (2022)
+# GPlates exercise for System Erde III. (2023)
 
 This page contains all material that is necessary to learn the basics of GPlates and complete the [homework assignment]({% link assignment.md%}). This material by no means covers everything that is to be known about GPlates. See [this page](https://sites.google.com/site/gplatestutorials/) for a more comprehensive treatment.
-
-**NOTE: Since the page was finished a bit late, the deadline of the assignment is postponed by another week to 2022-08-05!**
 
 <br>
 
@@ -19,19 +17,19 @@ This page contains all material that is necessary to learn the basics of GPlates
 
 | Date               | Topic                                                      |
 |--------------------|------------------------------------------------------------|
-| May 19 (Thursday)  | [Day 1](#day-1) - Intro to plate tectonics, GPlates basics |
-| May 24 (Wednesday) | **No Lecture (Instructors are away)**                      |
-| May 25 (Thursday)  | **No Lecture (Public holiday)**                            |
-| June 1 (Wednesday) | [Day 2](#day-2) - Rotations                                |
-| June 2 (Thursday)  | [Day 3](#day-3) - Additional data                          |
+| May 10 (Thursday)  | [Day 1](#day-1) - Intro to plate tectonics, GPlates basics |
+| May 17 (Wednesday) | [Day 2](#day-2) - Rotations                                |
+| May 18 (Thursday)  | **Public holiday**                                         |
+| May 24 (Wednesday) | Lecture by Prof. Kiessling                                 |
+| May 25 (Thursday)  | [Day 3](#day-3) - Additional data                          |
 |--------------------|------------------------------------------------------------|
-| August 5 (Friday)  | **New [Assignment]({% link assignment.md%}) deadline**         |
+| Jul 21             | **[Assignment]({% link assignment.md%}) deadline**         |
 
 <br>
 # Material
 
 ### Day 1
-- [Plate tectonic concepts and intro]({{site.url}}{{site.baseurl}}download/2022-05-26_GPlates_intro.pdf)
+- [Plate tectonic concepts and intro]({{site.url}}{{site.baseurl}}download/2023-05-11_GPlatres_intro.html)
 - [GPlates setup]({{baseurl}}setup/) 
 - [Starting GPlates and the user interface]({{site.baseurl}}start/) 
 - [Feature collections]({{site.baseurl}}features/) 
