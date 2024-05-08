@@ -11,13 +11,13 @@ permalink: /assignment/
 
 - The condition to pass the class is the completion of a homework assigment that depends on the use of GPlates. 
 - Your task will be to write a short report (**maximum three A4 pages**) with illustrations. Use Times New Roman 12pt, with 1.5 spacing or comparable. 
-- The **due date** for the exercise is the last day of the lecturing period (*2023-07-21* Fri). 
+- The **due date** for the exercise is the last day of the lecturing period (*2024-07-19* Fri). 
 - The assignmnent will not be graded, but you cannot pass the class if it is not finished.
 - You can also do the assignment in small groups.
 - The assignment **can be** written in **German**, but English is also welcome.
 - **The link to upload the finished assignment files is on StudOn!**
 
-
+<!--
 # The assignment
 
 - Write a short report on the history of the tectonic units of Germany using the **PaleoMAP** model with particular focus on Erlangen!
@@ -32,3 +32,4 @@ permalink: /assignment/
 - Put Erlangen on the PaleoMAP PaleoAtlas map, and show where the city was in Pangean times (e.g. at the Permian/Triassic boundary)?
 - Approximately what was the southernmost paleolatitude that Erlangen was at in the Phanerozoic?
 
+-->
