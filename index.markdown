@@ -28,5 +28,5 @@ This page contains all material that is necessary to learn the basics of GPlates
 # Material
 
 ### Day 1
-- Plate tectonic concepts and intro
+- [Plate tectonic concepts and intro]({{baseurl}}download/Plate Tectonics - EMD SEIII 052024.pdf)
 - [GPlates setup]({{baseurl}}setup/) 
