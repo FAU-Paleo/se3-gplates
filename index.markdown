@@ -30,3 +30,16 @@ This page contains all material that is necessary to learn the basics of GPlates
 ### Day 1
 - [Plate tectonic concepts and intro]({{baseurl}}download/Plate Tectonics - EMD SEIII 052024.pdf)
 - [GPlates setup]({{baseurl}}setup/) 
+
+### Day 2
+- [Starting GPlates and the user interface]({{site.baseurl}}start/) 
+- [Feature collections]({{site.baseurl}}features/) 
+- [Understanding rotation]({{site.baseurl}}rotations/)
+- [The default (Müller-Young-Cao) model]({{site.baseurl}}model/)
+
+### Day 3
+- [Raster data]({{site.baseurl}}rasters)
+- [Time-dependent rasters]({{site.baseurl}}timerasters)
+- [Reconstructing a single point]({{site.baseurl}}singlepoint)
+- [Reconstructing multiple points]({{site.baseurl}}multipoint/)
+- [Assignment instructions]({{site.baseurl}}assignment/)
