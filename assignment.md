@@ -17,11 +17,9 @@ permalink: /assignment/
 - The assignment **can be** written in **German**, but English is also welcome.
 - **The link to upload the finished assignment files is on StudOn!**
 
-<!--
 # The assignment
 
 - Write a short report on the history of the tectonic units of Germany using the **PaleoMAP** model with particular focus on Erlangen!
-
 - *Hint:* ESRI shapefiles can also be used in a similar way to [points]({{site.baseurl}}multipoint/) to store polygon information (e.g. boundaries of shapes). These [shapefiles]({% link download.markdown%}#shapefiles-of-germany) include data of Germany at 3 different levels of detail. You can use the Landkreis-level polygons to trace different parts of the country. You can also assign plate IDs to the polygons using the **Assign Plate IDs** menu item.
 
 # Some Ideas 
@@ -31,5 +29,3 @@ permalink: /assignment/
 - Describe the approximate history of the terranes, which super/megacontinents they took part in. 
 - Put Erlangen on the PaleoMAP PaleoAtlas map, and show where the city was in Pangean times (e.g. at the Permian/Triassic boundary)?
 - Approximately what was the southernmost paleolatitude that Erlangen was at in the Phanerozoic?
-
--->
