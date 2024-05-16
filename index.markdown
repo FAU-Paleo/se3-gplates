@@ -39,6 +39,7 @@ This page contains all material that is necessary to learn the basics of GPlates
 - [The default (Müller-Young-Cao) model]({{site.baseurl}}model/)
 
 ### Day 3
+- [Presentation: GPlates II]({{baseurl}}download/GPlates II - EMD SEIII 3.pdf)
 - [Raster data]({{site.baseurl}}rasters)
 - [Time-dependent rasters]({{site.baseurl}}timerasters)
 - [Reconstructing a single point]({{site.baseurl}}singlepoint)
