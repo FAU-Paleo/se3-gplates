@@ -7,7 +7,7 @@ layout: page
 
 ![img]({{site.url}}{{site.baseurl}}images/header.png)
 
-# GPlates exercise for System Erde III. (2024)
+# GPlates exercise for System Erde III. (2025)
 
 This page contains all material that is necessary to learn the basics of GPlates and complete the [homework assignment]({% link assignment.md%}). This material by no means covers everything that is to be known about GPlates. See [this page](https://sites.google.com/site/gplatestutorials/) for a more comprehensive treatment.
 
@@ -15,31 +15,33 @@ This page contains all material that is necessary to learn the basics of GPlates
 
 # Schedule 
 
-| Date               | Topic                                      |
-|--------------------|--------------------------------------------|
-| May 08 (Wednesday) | [Day 1](#day-1) - Intro to plate tectonics |
-| May 09 (Thursday)  | **Public holiday**                         |
-| May 15 (Wednesday) | Day 2                                      |
-| May 16 (Thursday)  | Day 3                                      |
-|--------------------|--------------------------------------------|
-| Jul 19             | **Assignment deadline**                   |
+| Date               | Topic                   |
+|--------------------|-------------------------|
+| May 07 (Wednesday) | Day 1                   |
+| May 08 (Thursday)  | Day 2                   |
+| May 21 (Wednesday) | Day 3                   |
+|--------------------|-------------------------|
+| Jul 25             | **Assignment deadline** |
 
 <br>
 # Material
 
 ### Day 1
-- **[Presentation: Plate tectonic concepts and intro]({{baseurl}}download/Plate Tectonics - EMD SEIII 052024.pdf)**
+- **[Presentation: Plate tectonic concepts and intro]({{baseurl}}download/2025/Plate Tectonics - EMD SEIII, i.pptx)**
 - [GPlates setup]({{baseurl}}setup/) 
 
 ### Day 2
-- **[Presentation: GPlates]({{baseurl}}download/GPlates - EMD2 - SEIII.pdf)**
+- **[Presentation: GPlates]({{baseurl}}download/2025/EMD Systems Erde III, ii.pptx)**
 - [Starting GPlates and the user interface]({{site.baseurl}}start/) 
 - [Feature collections]({{site.baseurl}}features/) 
 - [Understanding rotation]({{site.baseurl}}rotations/)
 - [The default (Müller-Young-Cao) model]({{site.baseurl}}model/)
 
+
 ### Day 3
+{% comment %}
 - **[Presentation: GPlates II]({{baseurl}}download/GPlates II - EMD SEIII 3.pdf)**
+{% endcomment %}
 - [Raster data]({{site.baseurl}}rasters)
 - [Time-dependent rasters]({{site.baseurl}}timerasters)
 - [Reconstructing a single point]({{site.baseurl}}singlepoint)
