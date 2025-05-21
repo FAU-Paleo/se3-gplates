@@ -35,15 +35,15 @@ This page contains all material that is necessary to learn the basics of GPlates
 - [Starting GPlates and the user interface]({{site.baseurl}}start/) 
 - [Feature collections]({{site.baseurl}}features/) 
 - [Understanding rotation]({{site.baseurl}}rotations/)
-- [The default (Müller-Young-Cao) model]({{site.baseurl}}model/)
+- [The Müller-Young-Cao model]({{site.baseurl}}model/)
 
 
 ### Day 3
-{% comment %}
-- **[Presentation: GPlates II]({{baseurl}}download/GPlates II - EMD SEIII 3.pdf)**
-{% endcomment %}
-- [Raster data]({{site.baseurl}}rasters)
-- [Time-dependent rasters]({{site.baseurl}}timerasters)
+- **[Presentation: GPlates II]({{baseurl}}download/2025/Plate Tectonics - EMD SEIII, iii.pptx)**
 - [Reconstructing a single point]({{site.baseurl}}singlepoint)
 - [Reconstructing multiple points]({{site.baseurl}}multipoint/)
 - [Assignment instructions]({{site.baseurl}}assignment/)
+
+### More
+- [Raster data]({{site.baseurl}}rasters)
+- [Time-dependent rasters]({{site.baseurl}}timerasters)
