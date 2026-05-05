@@ -6,7 +6,9 @@ permalink: /download/
 
 Here is a list of files that are used throughout the exercises
 
-- [Slides]({{site.url}}{{site.baseurl}}download/2023-05-11_GPlatres_intro.html)
+- [Presentation: Plate tectonic concepts and intro]({{baseurl}}2025/Plate Tectonics - EMD SEIII, i.pptx)
+- [Presentation: GPlates]({{baseurl}}2025/EMD Systems Erde III, ii.pptx)
+- [Presentation: GPlates II]({{baseurl}}2025/Plate Tectonics - EMD SEIII, iii.pptx)
 
 # Basic rotations
 

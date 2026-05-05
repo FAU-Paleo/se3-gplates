@@ -11,7 +11,7 @@ permalink: /assignment/
 
 - The condition to pass the class is the completion of a homework assigment that depends on the use of GPlates. 
 - Your task will be to write a short report (**maximum three A4 pages**) with illustrations. Use Times New Roman 12pt, with 1.5 spacing or comparable. 
-- The **due date** for the exercise is the last day of the lecturing period (*2025-07-25* Fri). 
+- The **due date** for the exercise is the last day of the lecturing period (*2026-07-19* Fri). 
 - The assignmnent will not be graded, but you cannot pass the class if it is not finished.
 - You can also do the assignment in small groups (up to 3/group).
 - The assignment **can be** written in **German**, but English is also welcome.

@@ -7,9 +7,9 @@ layout: page
 
 ![img]({{site.url}}{{site.baseurl}}images/header.png)
 
-# GPlates exercise for System Erde III. (2025)
+# GPlates exercise for System Erde III. (2026)
 
-This page contains all material that is necessary to learn the basics of GPlates and complete the [homework assignment]({% link assignment.md%}). This material by no means covers everything that is to be known about GPlates. See [this page](https://sites.google.com/site/gplatestutorials/) for a more comprehensive treatment.
+This page contains all material that is necessary to learn the basics of GPlates and complete the [homework assignment]({{site.baseurl}}assignment). This material by no means covers everything that is to be known about GPlates. See [this page](https://sites.google.com/site/gplatestutorials/) for a more comprehensive treatment.
 
 <br>
 
@@ -17,11 +17,11 @@ This page contains all material that is necessary to learn the basics of GPlates
 
 | Date               | Topic                   |
 |--------------------|-------------------------|
-| May 07 (Wednesday) | Day 1                   |
-| May 08 (Thursday)  | Day 2                   |
-| May 21 (Wednesday) | Day 3                   |
+| May 06 (Wednesday) | Day 1                   |
+| May 07 (Thursday)  | Day 2                   |
+| May 20 (Wednesday) | Day 3                   |
 |--------------------|-------------------------|
-| Jul 25             | **Assignment deadline** |
+| Jul 17             | **Assignment deadline** |
 
 <br>
 # Material
