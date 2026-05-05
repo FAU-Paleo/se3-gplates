@@ -22,7 +22,7 @@ title: GPlates for System Erde III.
 email: adam.kocsis@fau.de
 description: "This website contains exercise material for the Dynamik des Systems Erde - System Erde III. class."
 baseurl: "/se3-gplates/" # the subpath of your site, e.g. /blog
-url: "https://adamkocsis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fau-paleo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
