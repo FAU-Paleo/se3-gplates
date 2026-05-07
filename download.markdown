@@ -7,10 +7,10 @@ permalink: /download/
 
 Here is a list of files that are used throughout the exercises
 
-- [Presentation: Plate tectonic concepts and intro]({{baseurl}}2026/Plate Tectonics 1.pptx)
+- [Presentation: Plate tectonic concepts and intro]({{baseurl}}2026/07Plate Tectonics 1.pptx)
+- [Presentation: GPlates and reference frames]({{baseurl}}2026/08Plate Tectonics 2.pptx)
 {% comment %}
 
-- [Presentation: GPlates]({{baseurl}}2025/EMD Systems Erde III, ii.pptx)
 - [Presentation: GPlates II]({{baseurl}}2025/Plate Tectonics - EMD SEIII, iii.pptx)
 
 {% endcomment %}

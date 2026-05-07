@@ -27,11 +27,11 @@ This page contains all material that is necessary to learn the basics of GPlates
 # Material
 
 ### Day 1
-- **[Presentation: Plate tectonic concepts and intro]({{baseurl}}2026/Plate Tectonics 1.pptx)**
+- **[Presentation: Plate tectonic concepts and intro]({{baseurl}}download/2026/07Plate Tectonics 1.pptx)**
 - [GPlates setup]({{baseurl}}setup/) 
 
 ### Day 2
-- **Presentation: GPlates I**
+- **[Presentation: GPlates and reference frames]({{baseurl}}download/2026/08Plate Tectonics 2.pptx)**
 - [Starting GPlates and the user interface]({{site.baseurl}}start/) 
 - [Feature collections]({{site.baseurl}}features/) 
 - [Understanding rotation]({{site.baseurl}}rotations/)
