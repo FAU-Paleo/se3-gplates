@@ -35,7 +35,7 @@ This page contains all material that is necessary to learn the basics of GPlates
 - [Starting GPlates and the user interface]({{site.baseurl}}start/) 
 - [Feature collections]({{site.baseurl}}features/) 
 - [Understanding rotation]({{site.baseurl}}rotations/)
-- [The Müller-Young-Cao model]({{site.baseurl}}model/)
+- [The EarthByte model]({{site.baseurl}}model/)
 
 
 ### Day 3

@@ -12,9 +12,11 @@ permalink: /model/
 # Load in a complete model
 
 To perform actual reconstructions, we need 1) features that move, and 2) a reconstruction tree (rotation file).
-The current default model in GPlates 2.3 is a combination model (EarthByte Global Rotation Model) used in [Müller et al. 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018TC005462), [Young et al. 2019](https://www.sciencedirect.com/science/article/pii/S1674987118301373) and [Cao et al. 2021](https://www.sciencedirect.com/science/article/pii/S1342937X20303051). 
+The default model in GPlates 2.3 is a combination model (EarthByte Global Rotation Model) used in [Müller et al. 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018TC005462), [Young et al. 2019](https://www.sciencedirect.com/science/article/pii/S1674987118301373) and [Cao et al. 2021](https://www.sciencedirect.com/science/article/pii/S1342937X20303051). 
 
-These feature collections are included by default among the example files of the GPlates Desktop application. You can use the **Open Feature Collection** menu item to open these. Let's open the continental polygons (**GeoData/FeatureCollections/ContinentalPolygons/Global_EarthByte_GPlates_PresentDay_ContinentalPolygons.gpmlz**) and the matching rotation file (**GeoData/FeatureCollections/Rotations/Muller2019-Young2019-Cao2020_CombinedRotations.rot**) files! After that you should see a similar image:
+*NOTE that this was updated to the model of [Zahirovic et al. 2022](https://doi.org/10.1002/gdj3.146) in GPlates 2.5. The screenshots of this page still shows the older model, but the intstructions are the same.*
+
+These feature collections are included by default among the example files of the GPlates Desktop application. You can use the **Open Feature Collection** menu item to open these. Let's open the continental polygons (**GeoData/FeatureCollections/ContinentalPolygons/Global_EarthByte_GPlates_PresentDay_ContinentalPolygons.gpmlz**) and the matching rotation file (**GeoData/FeatureCollections/Rotations/Zahirovic_etal_2022_OptimizedMantleRef_andNNRMantleRef.rot**) files! After that you should see a similar image:
 
 
 ![img]({{site.url}}{{site.baseurl}}images/model/1.png)

@@ -12,7 +12,7 @@ permalink: /timerasters/
 # Other tectonic reconstructions
 
 There are two other tectonic reconstructions that come bundled with GPlates. 
-- The model of [Merdith et al. 2021](https://www.sciencedirect.com/science/article/abs/pii/S0012825220305237)
+- The model of [Müller et al. 2022 (Mantle reference frame)](https://doi.org/10.5194/se-13-1127-2022) and [Merdith et al. 2021 (Paleomag. reference frame)](https://www.sciencedirect.com/science/article/abs/pii/S0012825220305237)
 - and the [PALEOMAP](http://www.scotese.com/) model of C. Scotese. 
 
 Feel free to explore these models, they are in the **GeoData** / **FeatureCollections** / **AltPlateReconstructions** directory:
