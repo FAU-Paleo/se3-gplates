@@ -27,11 +27,11 @@ This page contains all material that is necessary to learn the basics of GPlates
 # Material
 
 ### Day 1
-- **[Presentation: Plate tectonic concepts and intro]({{baseurl}}download/2025/Plate Tectonics - EMD SEIII, i.pptx)**
+- **[Presentation: Plate tectonic concepts and intro]({{baseurl}}2026/Plate Tectonics 1.pptx)**
 - [GPlates setup]({{baseurl}}setup/) 
 
 ### Day 2
-- **[Presentation: GPlates]({{baseurl}}download/2025/EMD Systems Erde III, ii.pptx)**
+- **Presentation: GPlates I**
 - [Starting GPlates and the user interface]({{site.baseurl}}start/) 
 - [Feature collections]({{site.baseurl}}features/) 
 - [Understanding rotation]({{site.baseurl}}rotations/)
@@ -39,7 +39,7 @@ This page contains all material that is necessary to learn the basics of GPlates
 
 
 ### Day 3
-- **[Presentation: GPlates II]({{baseurl}}download/2025/Plate Tectonics - EMD SEIII, iii.pptx)**
+- **Presentation: GPlates II**
 - [Reconstructing a single point]({{site.baseurl}}singlepoint)
 - [Reconstructing multiple points]({{site.baseurl}}multipoint/)
 - [Assignment instructions]({{site.baseurl}}assignment/)
