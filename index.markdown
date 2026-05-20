@@ -39,7 +39,6 @@ This page contains all material that is necessary to learn the basics of GPlates
 
 
 ### Day 3
-- **Presentation: GPlates II**
 - [Reconstructing a single point]({{site.baseurl}}singlepoint)
 - [Reconstructing multiple points]({{site.baseurl}}multipoint/)
 - [Assignment instructions]({{site.baseurl}}assignment/)
